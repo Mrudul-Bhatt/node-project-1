@@ -186,11 +186,13 @@ form {
 }
 
 .card__image {
-  width: 100%;
+  width: 300px;
+  height: 300px;
 }
 
 .card__image img {
-  width: 100%;
+  width: 300px;
+  height: 300px;
 }
 
 .card__actions {
